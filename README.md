@@ -137,7 +137,7 @@ PowerBI-Personal-Finance-Analysis-Dashboard
 ├── README.md
 ├── Indian_personal_finance_dataset.csv
 ├── Personal Finance Analysis Dashboard.pbix
-└── Dashboard Screenshots
+└── Dashboards Screenshots
     ├── Dashboard-1.png
     ├── Dashboard-2.png
     ├── Dashboard-3.png
